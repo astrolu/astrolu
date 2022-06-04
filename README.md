@@ -1,4 +1,10 @@
-### Hi there 👋
+<h1 align="center"> Hey there, I am ✨Maria Buenfil✨</h1>
+
+<h3 align="center">I have a bachelor's degree in Engineering Physics </h3>
+
+- 👩‍💻 I am a BEDU data science student 
+- 🌱 I’m currently learning front-end in a self-taught way, 
+
 
 <!--
 **astrolu/astrolu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
