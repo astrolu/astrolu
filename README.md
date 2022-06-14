@@ -4,7 +4,7 @@
 
 - 👩‍💻 I am a BEDU data science student 
 - 🌱 I’m currently learning front-end in a self-taught way, 
-- I have only a week learning website dev, the website I'm working on is my portfolio. You can check it up at this link: <a href="https://mariabuenfil.netlify.app/">Maria Buenfil</a>
+- I've only been learning website development for a week, the website I'm working on is my portfolio. Check it out at this link: <a href="https://mariabuenfil.netlify.app/">Maria Buenfil</a>
  
 
 
